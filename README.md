@@ -1,7 +1,5 @@
 # CCTV Feed Description App
 
-![App Banner](banner.png)
-
 ## MiniProject
 
 ### Members
